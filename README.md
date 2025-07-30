@@ -28,7 +28,7 @@
 📁 Climate-Crusader
  ┣ 📄 index.html        # Main webpage structure
  ┣ 📄 app.js            # Handles API calls & updates UI
- ┗ 📄 style.css         # (Optional) Styles for the app
+ ┗ 📄 style.css         # Styles for the app
 ```
 
 ## 🎯 Usage
